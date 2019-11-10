@@ -1,0 +1,511 @@
+{
+    "2000": [
+        {
+            "Name": "Pierre BISMUTH",
+            "link": "https://www.artistsprocesses.com/Artist/40263/BISMUTH-Pierre",
+            "motorId": 14,
+            "meanId": 4
+        },
+        {
+            "Name": "Rebecca BOURNIGAULT",
+            "link": "https://www.artistsprocesses.com/Artist/48500/BOURNIGAULT-Rebecca",
+            "motorId": 21,
+            "meanId": 5
+        },
+        {
+            "Name": "Claude CLOSKY",
+            "link": "https://www.artistsprocesses.com/Artist/77901/CLOSKY-Claude",
+            "motorId": 13,
+            "meanId": 6
+        },
+        {
+            "Name": "Thomas HIRSCHHORN",
+            "link": "https://www.artistsprocesses.com/Artist/178524/HIRSCHHORN-Thomas",
+            "motorId": 18,
+            "meanId": 4,
+            "isKnown": true
+        },
+        {
+            "Name": "Felice VARINI",
+            "link": "https://www.artistsprocesses.com/Artist/430117/VARINI-Felice",
+            "motorId": 2,
+            "meanId": 1
+        },
+        {
+            "Name": "Xavier VEILHAN",
+            "link": "https://www.artistsprocesses.com/Artist/431163/VEILHAN-Xavier",
+            "motorId": 17,
+            "meanId": 9
+        }
+    ],
+    "2002": [
+        {
+            "Name": "Bernard FRIZE",
+            "link": "https://www.artistsprocesses.com/Artist/135798/FRIZE-Bernard",
+            "motorId": 4,
+            "meanId": 24,
+            "isKnown": true
+        },
+        {
+            "Name": "Dominique GONZALEZ-FOERSTER",
+            "link": "https://www.artistsprocesses.com/Artist/151602/GONZALEZ-FOERSTER-Dominique",
+            "motorId": 1,
+            "meanId": 2
+        },
+        {
+            "Name": "Valérie JOUVE",
+            "link": "https://www.artistsprocesses.com/Artist/202753/JOUVE-Val%C3%A9rie",
+            "motorId": 20,
+            "meanId": 21
+        },
+        {
+            "Name": "Anri SALA",
+            "link": "https://www.artistsprocesses.com/Artist/361959/SALA-Anri",
+            "motorId": 21,
+            "meanId": 2
+        },
+        {
+            "Name": "WANG DU",
+            "link": "https://www.artistsprocesses.com/Artist/441441/WANG-DU-",
+            "motorId": 5,
+            "meanId": 14
+        }
+    ],
+    "2003": [
+        {
+            "Name": "Stéphane COUTURIER",
+            "link": "https://www.artistsprocesses.com/Artist/84030/COUTURIER-St%C3%A9phane",
+            "motorId": 2,
+            "meanId": 21
+        },
+        {
+            "Name": "Claude LÉVÊQUE",
+            "link": "https://www.artistsprocesses.com/Artist/243958/L%C3%89V%C3%8AQUE-Claude",
+            "motorId": 15,
+            "meanId": 2
+        },
+        {
+            "Name": "Mathieu MERCIER",
+            "link": "https://www.artistsprocesses.com/Artist/277230/MERCIER-Mathieu",
+            "motorId": 13,
+            "meanId": 14,
+            "isKnown":true
+        },
+        {
+            "Name": "Pascal PINAUD",
+            "link": "https://www.artistsprocesses.com/Artist/327943/PINAUD-Pascal",
+            "motorId": 14,
+            "meanId": 13
+        },
+        {
+            "Name": "Éric POITEVIN",
+            "link": "https://www.artistsprocesses.com/Artist/330635/POITEVIN-%C3%89ric",
+            "motorId": 21,
+            "meanId": 21
+        }
+    ],
+    "2004": [
+        {
+            "Name": "Carole BENZAKEN",
+            "link": "https://www.artistsprocesses.com/Artist/34424/BENZAKEN-Carole",
+            "motorId": 3,
+            "meanId": 24,
+            "isKnown":true
+        },
+        {
+            "Name": "Philippe COGNÉE",
+            "link": "https://www.artistsprocesses.com/Artist/78676/COGNÉE-Philippe",
+            "motorId": 22,
+            "meanId": 24
+        },
+        {
+            "Name": "Richard FAUGUET",
+            "link": "https://www.artistsprocesses.com/Artist/123992/FAUGUET-Richard",
+            "motorId": 14,
+            "meanId": 12
+        },
+        {
+            "Name": "Philippe RAMETTE",
+            "link": "https://www.artistsprocesses.com/Artist/340316/RAMETTE-Philippe",
+            "motorId": 21,
+            "meanId": 3
+        }           
+    ],
+    "2005": [
+        {
+            "Name": "Kader ATTIA",
+            "link": "https://www.artistsprocesses.com/Artist/18922/ATTIA-Kader",
+            "motorId": 21,
+            "meanId": 15
+        },
+        {
+            "Name": "Gilles BARBIER",
+            "link": "https://www.artistsprocesses.com/Artist/25563/BARBIER-Gilles",
+            "motorId": 19,
+            "meanId": 3
+        },
+        {
+            "Name": "Olivier BLANCKART",
+            "link": "https://www.artistsprocesses.com/Artist/41436/BLANCKART-Olivier",
+            "motorId": 19,
+            "meanId": 14
+        },
+        {
+            "Name": "Claude CLOSKY",
+            "link": "https://www.artistsprocesses.com/Artist/77901/CLOSKY-Claude",
+            "motorId": 13,
+            "meanId": 6,
+            "isKnown":true
+        }
+    ],
+    "2006": [
+        {
+            "Name": "Adel ABDESSEMED",
+            "link": "https://www.artistsprocesses.com/Artist/1110/ABDESSEMED-Adel",
+            "motorId": 21,
+            "meanId": 15
+        },
+        {
+            "Name": "Leandro ERLICH",
+            "link": "https://www.artistsprocesses.com/Artist/119161/ERLICH-Leandro",
+            "motorId": 4,
+            "meanId": 2
+        },
+        {
+            "Name": "Philippe MAYAUX",
+            "link": "https://www.artistsprocesses.com/Artist/270545/MAYAUX-Philippe",
+            "motorId": 23,
+            "meanId": 3,
+            "isKnown":true
+        },
+        {
+            "Name": "Bruno PEINADO",
+            "link": "https://www.artistsprocesses.com/Artist/321338/PEINADO-Bruno",
+            "motorId": 13,
+            "meanId": 14
+        }
+    ],
+    "2007": [
+        {
+            "Name": "Adam ADACH",
+            "link": "https://www.artistsprocesses.com/Artist/2486/ADACH-Adam",
+            "motorId": 22,
+            "meanId": 24
+        },
+        {
+            "Name": "Pierre ARDOUVIN",
+            "link": "https://www.artistsprocesses.com/Artist/15309/ARDOUVIN-Pierre",
+            "motorId": 13,
+            "meanId": 14
+        },
+        {
+            "Name": "Richard FAUGUET",
+            "link": "https://www.artistsprocesses.com/Artist/123992/FAUGUET-Richard",
+            "motorId": 14,
+            "meanId": 12
+        },
+        {
+            "Name": "Tatiana TROUVÉ",
+            "link": "https://www.artistsprocesses.com/Artist/419923/TROUVÉ-Tatiana",
+            "motorId": 15,
+            "meanId": 13,
+            "isKnown": true
+        }
+    ],
+    "2008": [
+        {
+            "Name": "Michel BLAZY",
+            "link": "https://www.artistsprocesses.com/Artist/41905/BLAZY-Michel",
+            "motorId": 16,
+            "meanId": 7
+        },
+        {
+            "Name": "Stéphane CALAIS",
+            "link": "https://www.artistsprocesses.com/Artist/61297/CALAIS-Stéphane",
+            "motorId": 14,
+            "meanId": 14
+        },
+        {
+            "Name": "Laurent GRASSO",
+            "link": "https://www.artistsprocesses.com/Artist/154662/GRASSO-Laurent",
+            "motorId": 15,
+            "meanId": 2,
+            "isKnown":true
+        },
+        {
+            "Name": "Didier MARCEL",
+            "link": "https://www.artistsprocesses.com/Artist/263182/MARCEL-Didier",
+            "motorId": 22,
+            "meanId": 13
+        }
+    ],
+    "2009": [
+        {
+            "Name": "Saâdane AFIF",
+            "link": "https://www.artistsprocesses.com/Artist/3740/AFIF-Saâdane",
+            "motorId": 22,
+            "meanId": 6,
+            "isKnown": true
+        },
+        {
+            "Name": "Damien DEROUBAIX",
+            "link": "https://www.artistsprocesses.com/Artist/100338/DEROUBAIX-Damien",
+            "motorId": 16,
+            "meanId": 12
+        },
+        {
+            "Name": "Nicolas MOULIN",
+            "link": "https://www.artistsprocesses.com/Artist/290351/MOULIN-Nicolas",
+            "motorId": 15,
+            "meanId": 13
+        },
+        {
+            "Name": "Philippe PERROT",
+            "link": "https://www.artistsprocesses.com/Artist/323689/PERROT-Philippe",
+            "motorId": 19,
+            "meanId": 24
+        }
+    ],
+    "2010": [
+        {
+            "Name": "Céleste BOURSIER-MOUGENOT",
+            "link": "https://www.artistsprocesses.com/Artist/48548/BOURSIER-MOUGENOT-Céleste",
+            "motorId": 21,
+            "meanId": 7
+        },
+        {
+            "Name": "Cyprien GAILLARD",
+            "link": "https://www.artistsprocesses.com/Artist/138654/GAILLARD-Cyprien",
+            "motorId": 22,
+            "meanId": 13,
+            "isKnown": true
+        },
+        {
+            "Name": "Camille HENROT",
+            "link": "https://www.artistsprocesses.com/Artist/174155/HENROT-Camille",
+            "motorId": 21,
+            "meanId": 13
+        },
+        {
+            "Name": "Anne-Marie SCHNEIDER",
+            "link": "https://www.artistsprocesses.com/Artist/371117/SCHNEIDER-Anne-Marie",
+            "motorId": 19,
+            "meanId": 23
+        }
+    ],
+    "2011": [
+        {
+            "Name": "Damien CABANES",
+            "link": "https://www.artistsprocesses.com/Artist/60532/CABANES-Damien",
+            "motorId": 22,
+            "meanId": 12
+        },
+        {
+            "Name": "Mircea CANTOR",
+            "link": "https://www.artistsprocesses.com/Artist/63406/CANTOR-Mircea",
+            "motorId": 21,
+            "meanId": 11,
+            "isKnown": true
+        },
+        {
+            "Name": "Guillaume LEBLON",
+            "link": "https://www.artistsprocesses.com/Artist/239025/LEBLON-Guillaume",
+            "motorId": 22,
+            "meanId": 13
+        },
+        {
+            "Name": "Samuel ROUSSEAU",
+            "link": "https://www.artistsprocesses.com/Artist/356416/ROUSSEAU-Samuel",
+            "motorId": 20,
+            "meanId": 7
+        }
+    ],
+    "2012": [
+        {
+            "Name": "DEWAR & GICQUEL",
+            "link": "https://www.artistsprocesses.com/Artist/101503/DEWAR---GICQUEL-",
+            "motorId": 14,
+            "meanId": 13,
+            "isKnown": true
+        },
+        {
+            "Name": "Valérie FAVRE",
+            "link": "https://www.artistsprocesses.com/Artist/124250/FAVRE-Valérie",
+            "motorId": 11,
+            "meanId": 24
+        },
+        {
+            "Name": "Bertrand LAMARCHE",
+            "link": "https://www.artistsprocesses.com/Artist/233619/LAMARCHE-Bertrand",
+            "motorId": 15,
+            "meanId": 2
+        },
+        {
+            "Name": "Franck SCURTI",
+            "link": "https://www.artistsprocesses.com/Artist/375004/SCURTI-Franck",
+            "motorId": 17,
+            "meanId": 14
+        }
+    ],
+    "2013": [
+        {
+            "Name": "Farah ATASSI",
+            "link": "https://www.artistsprocesses.com/Artist/18506/ATASSI-Farah",
+            "motorId": 21,
+            "meanId": 24
+        },
+        {
+            "Name": "CLAIRE FONTAINE",
+            "link": "https://www.artistsprocesses.com/Artist/76620/CLAIRE-FONTAINE-",
+            "motorId": 18,
+            "meanId": 4
+        },
+        {
+            "Name": "Latifa ECHAKHCH",
+            "link": "https://www.artistsprocesses.com/Artist/113234/ECHAKHCH-Latifa",
+            "motorId": 21,
+            "meanId": 13,
+            "isKnown": true
+        },
+        {
+            "Name": "Raphaël ZARKA",
+            "link": "https://www.artistsprocesses.com/Artist/462313/ZARKA-Raphaël",
+            "motorId": 3,
+            "meanId": 13
+        }
+    ],
+    "2014": [
+        {
+            "Name": "Théo MERCIER",
+            "link": "https://www.artistsprocesses.com/Artist/277227/MERCIER-Théo",
+            "motorId": 9,
+            "meanId": 12
+        },
+        {
+            "Name": "Julien PRÉVIEUX",
+            "link": "https://www.artistsprocesses.com/Artist/334485/PRÉVIEUX-Julien",
+            "motorId": 6,
+            "meanId": 6,
+            "isKnown": true
+        },
+        {
+            "Name": "Florian & Michael QUISTREBERT",
+            "link": "https://www.artistsprocesses.com/Artist/338179/QUISTREBERT-Florian---Michael",
+            "motorId": 15,
+            "meanId": 24
+        },
+        {
+            "Name": "Evariste RICHER",
+            "link": "https://www.artistsprocesses.com/Artist/347607/RICHER-Evariste",
+            "motorId": 14,
+            "meanId": 11
+        }
+    ],
+    "2015": [
+        {
+            "Name": "Davide BALULA",
+            "link": "https://www.artistsprocesses.com/Artist/24308/BALULA-Davide",
+            "motorId": 17,
+            "meanId": 4
+        },
+        {
+            "Name": "Neil BELOUFA",
+            "link": "https://www.artistsprocesses.com/Artist/32860/BELOUFA-Neil",
+            "motorId": 1,
+            "meanId": 13
+        },
+        {
+            "Name": "Melik OHANIAN",
+            "link": "https://www.artistsprocesses.com/Artist/307580/OHANIAN-Melik",
+            "motorId": 1,
+            "meanId": 2,
+            "isKnown": true
+        },
+        {
+            "Name": "Zineb SEDIRA",
+            "link": "https://www.artistsprocesses.com/Artist/375441/SEDIRA-Zineb",
+            "motorId": 20,
+            "meanId": 17
+        }
+    ],
+    "2016": [
+        {
+            "Name": "Kader ATTIA",
+            "link": "https://www.artistsprocesses.com/Artist/18922/ATTIA-Kader",
+            "motorId": 21,
+            "meanId": 15,
+            "isKnown": true
+        },
+        {
+            "Name": "Yto BARRADA",
+            "link": "https://www.artistsprocesses.com/Artist/26694/BARRADA-Yto",
+            "motorId": 21,
+            "meanId": 14
+        },
+        {
+            "Name": "Barthélémy TOGUO",
+            "link": "https://www.artistsprocesses.com/Artist/415792/TOGUO-Barthélémy",
+            "motorId": 18,
+            "meanId": 15
+        },
+        {
+            "Name": "Ulla VON BRANDENBURG",
+            "link": "https://www.artistsprocesses.com/Artist/436779/VON-BRANDENBURG-Ulla",
+            "motorId": 12,
+            "meanId": 13
+        }
+    ],
+    "2017": [
+        {
+            "Name": "Maja BAJEVIC",
+            "link": "https://www.artistsprocesses.com/Artist/22811/BAJEVIC-Maja",
+            "motorId": 18,
+            "meanId": 13
+        },
+        {
+            "Name": "HADJITHOMAS & JOREIGE",
+            "link": "https://www.artistsprocesses.com/Artist/162615/HADJITHOMAS---JOREIGE-",
+            "motorId": 18,
+            "meanId": 13,
+            "isKnown": true
+        },
+        {
+            "Name": "Charlotte MOTH",
+            "link": "https://www.artistsprocesses.com/Artist/290093/MOTH-Charlotte",
+            "motorId": 22,
+            "meanId": 13
+        },
+        {
+            "Name": "Vittorio SANTORO",
+            "link": "https://www.artistsprocesses.com/Artist/365033/SANTORO-Vittorio",
+            "motorId": 19,
+            "meanId": 13
+        }
+    ],
+    "2018": [
+        {
+            "Name": "Mohamed BOUROUISSA",
+            "link": "https://www.artistsprocesses.com/Artist/48506/BOUROUISSA-Mohamed",
+            "motorId": 18,
+            "meanId": 6
+        },
+        {
+            "Name": "Clément COGITORE",
+            "link": "https://www.artistsprocesses.com/Artist/78662/COGITORE-Clément",
+            "motorId": 22,
+            "meanId": 7
+        },
+        {
+            "Name": "Thu VAN TRAN",
+            "link": "https://www.artistsprocesses.com/Artist/429042/VAN-TRAN-Thu",
+            "motorId": 22,
+            "meanId": 13
+        },
+        {
+            "Name": "Marie VOIGNIER",
+            "link": "https://www.artistsprocesses.com/Artist/436127/VOIGNIER-Marie",
+            "motorId": 21,
+            "meanId": 17
+        }
+    ]
+}

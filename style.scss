@@ -1,0 +1,220 @@
+
+/* theme colors */
+$red:#cd3529;
+$gold: #aea377;
+$pink: #fff2e5;
+$lightGreen: #e5ffe5;
+$gray1:#f4f3ed;
+$gray2:#f3f2ea;
+$gray3:#e6e2d2;
+$gray4:#e8e5d5;
+$gray5: #dcd8c1;
+$gray6:#cec8a7;
+$gray7:#d1cbac;
+$gray8:#c5be97;
+
+body{
+    zoom: 49%;
+    margin: 0;
+}
+
+.red{
+    color: $red;
+}
+.gold{
+    color:$gold;
+}
+.border-gold{
+    border: 1px solid $gold;
+}
+.bg-pink{
+    background-color: $pink;
+}
+.bg-light-green{
+    background-color: $lightGreen;
+}
+.bg-gray1{
+    background-color:$gray1;
+}
+.bg-gray2{
+    background-color: $gray2;
+}
+.bg-gray3{
+    background-color: $gray3;
+}
+.bg-gray4{
+    background-color: $gray4;
+}
+.bg-gray5{
+    background-color:$gray5;
+}
+.bg-gray6{
+    background-color: $gray6;
+}
+.bg-gray7{
+    background-color:$gray7;
+}
+.bg-gray8{
+    background-color: $gray8;
+}
+/* end theme colors */
+/* header */
+
+/* en header  */
+
+/* content */
+
+.title{
+    font-weight: bold;
+    padding: 40px;
+}
+thead th{
+    padding: 30px;
+}
+
+#artists thead th{
+    padding: 40px;
+} 
+
+#motors thead th{
+    background-color: $pink;
+}
+
+#means thead th{
+    background-color: $lightGreen;
+}
+
+
+
+thead th h1{
+    font-size: 27px;
+    color: $gold;
+    font-weight: 100;
+    margin: 0;
+}
+
+thead th small{
+    color: $gold;
+}
+
+#container{
+    display: block;
+    width: 2700px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+ #motors{
+    max-width: 1037px;
+}
+#means{
+    max-width: 983.6px;;
+}
+
+.flexROw{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    justify-content: space-between;
+    
+}
+
+table {
+    border-collapse: collapse;
+  }
+
+th, #means td, #motors td{
+    border: 1px solid #aea377;
+}
+
+ #motors tr:hover, #motors td.hover , #motors  tr.hover{
+    background-color: $pink;
+}
+
+#means tr:hover, #means td.hover, #means tr.hover{
+    background-color: $lightGreen;
+}
+
+
+
+.vertical-text {
+    display: block;
+    width: 40px;
+    height: 100%;
+    position: relative;
+    top: -10px;
+    margin: auto;
+    transform: rotate(90deg);
+    white-space: nowrap;
+    vertical-align: top;
+}
+
+td.sscteg ,td.libelle {
+    text-align: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.short-text{
+    font-weight: bold;
+}
+*{
+    font-weight: 500;
+}
+
+/* artists */
+
+#artists{
+    min-width: 200px;
+    display: block;
+}
+
+#artists tbody tr td:first-child{
+    background-color: $pink;
+    border-right: 1px solid $gold;
+    padding: 1px 7px;
+    text-align: center;
+}
+
+#artists tbody tr td:last-child{
+    background-color: $lightGreen;
+    border-left: 1px solid $gold;
+    padding: 1px 7px;
+    text-align: center;
+
+}
+
+#artists table{
+    width: 400px
+}
+
+.artist-name{
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    display: block;
+    color: black;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.year{
+    color: $red;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+    padding-top: 6.5px;
+}
+
+.artist-motor, .artist-mean{
+    cursor: pointer;
+}
+/* artists */
+/* end content */

@@ -1,0 +1,171 @@
+/* theme colors */
+body {
+  zoom: 49%;
+  margin: 0; }
+
+.red {
+  color: #cd3529; }
+
+.gold {
+  color: #aea377; }
+
+.border-gold {
+  border: 1px solid #aea377; }
+
+.bg-pink {
+  background-color: #fff2e5; }
+
+.bg-light-green {
+  background-color: #e5ffe5; }
+
+.bg-gray1 {
+  background-color: #f4f3ed; }
+
+.bg-gray2 {
+  background-color: #f3f2ea; }
+
+.bg-gray3 {
+  background-color: #e6e2d2; }
+
+.bg-gray4 {
+  background-color: #e8e5d5; }
+
+.bg-gray5 {
+  background-color: #dcd8c1; }
+
+.bg-gray6 {
+  background-color: #cec8a7; }
+
+.bg-gray7 {
+  background-color: #d1cbac; }
+
+.bg-gray8 {
+  background-color: #c5be97; }
+
+/* end theme colors */
+/* header */
+/* en header  */
+/* content */
+.title {
+  font-weight: bold;
+  padding: 40px; }
+
+thead th {
+  padding: 30px; }
+
+#artists thead th {
+  padding: 40px; }
+
+#motors thead th {
+  background-color: #fff2e5; }
+
+#means thead th {
+  background-color: #e5ffe5; }
+
+thead th h1 {
+  font-size: 27px;
+  color: #aea377;
+  font-weight: 100;
+  margin: 0; }
+
+thead th small {
+  color: #aea377; }
+
+#container {
+  display: block;
+  width: 2700px;
+  margin: auto;
+  margin-bottom: 20px; }
+
+#motors {
+  max-width: 1037px; }
+
+#means {
+  max-width: 983.6px; }
+
+.flexROw {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: space-between;
+  justify-content: space-between; }
+
+table {
+  border-collapse: collapse; }
+
+th, #means td, #motors td {
+  border: 1px solid #aea377; }
+
+#motors tr:hover, #motors td.hover, #motors tr.hover {
+  background-color: #fff2e5; }
+
+#means tr:hover, #means td.hover, #means tr.hover {
+  background-color: #e5ffe5; }
+
+.vertical-text {
+  display: block;
+  width: 40px;
+  height: 100%;
+  position: relative;
+  top: -10px;
+  margin: auto;
+  transform: rotate(90deg);
+  white-space: nowrap;
+  vertical-align: top; }
+
+td.sscteg, td.libelle {
+  text-align: center; }
+
+.text-center {
+  text-align: center; }
+
+.short-text {
+  font-weight: bold; }
+
+* {
+  font-weight: 500; }
+
+/* artists */
+#artists {
+  min-width: 200px;
+  display: block; }
+
+#artists tbody tr td:first-child {
+  background-color: #fff2e5;
+  border-right: 1px solid #aea377;
+  padding: 1px 7px;
+  text-align: center; }
+
+#artists tbody tr td:last-child {
+  background-color: #e5ffe5;
+  border-left: 1px solid #aea377;
+  padding: 1px 7px;
+  text-align: center; }
+
+#artists table {
+  width: 400px; }
+
+.artist-name {
+  font-size: 15px;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+  display: block;
+  color: black; }
+
+.bold {
+  font-weight: bold; }
+
+.year {
+  color: #cd3529;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+  padding-top: 6.5px; }
+
+.artist-motor, .artist-mean {
+  cursor: pointer; }
+
+/* artists */
+/* end content */
